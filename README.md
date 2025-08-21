@@ -11,8 +11,6 @@
 
 *Connect • Collaborate • Communicate*
 
-[🚀 Demo](#demo) • [✨ Features](#features) • [🛠️ Installation](#installation) • [📖 Usage](#usage) • [🤝 Contributing](#contributing)
-
 </div>
 
 ---
