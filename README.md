@@ -1,4 +1,4 @@
-# 🎥 Blink - Premium Video Chat Experience
+# Blink - Premium Video Chat Experience
 
 <div align="center">
 
@@ -15,41 +15,41 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **Blink** is a next-generation, real-time video communication platform built with modern web technologies. Designed with a premium user experience in mind, Blink delivers crystal-clear video calls, seamless connectivity, and an intuitive interface that makes virtual meetings feel natural and engaging.
 
-### 🎯 Why Blink?
+###  Why Blink?
 
-- **🎨 Premium Design**: Stunning glassmorphic UI with smooth animations and modern aesthetics
-- **⚡ Lightning Fast**: WebRTC-powered peer-to-peer connections for minimal latency
-- **🔒 Secure**: End-to-end encrypted video and audio streams
-- **📱 Responsive**: Works flawlessly across all devices and screen sizes
-- **🎮 Interactive**: Real-time controls with immediate visual feedback
+- ** Premium Design**: Stunning glassmorphic UI with smooth animations and modern aesthetics
+- ** Lightning Fast**: WebRTC-powered peer-to-peer connections for minimal latency
+- ** Secure**: End-to-end encrypted video and audio streams
+- ** Responsive**: Works flawlessly across all devices and screen sizes
+- ** Interactive**: Real-time controls with immediate visual feedback
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎥 Core Video Features
+###  Core Video Features
 - **HD Video Calling** - Crystal clear 720p/1080p video quality
 - **Adaptive Bitrate** - Automatic quality adjustment based on connection
 - **Screen Sharing** - Share your screen with participants (coming soon)
 - **Virtual Backgrounds** - Professional backgrounds for any environment (roadmap)
 
-### 🎛️ Advanced Controls
+###  Advanced Controls
 - **One-Click Mute/Unmute** - Audio and video controls with visual feedback
 - **Call Management** - Start, end, and manage calls effortlessly
 - **Connection Status** - Real-time connection quality indicators
 - **Participant Management** - See who's connected at a glance
 
-### 🎨 Premium Experience
+###  Premium Experience
 - **Glassmorphic Design** - Modern, translucent UI elements
 - **Smooth Animations** - 60fps animations and transitions
 - **Dark Mode Optimized** - Easy on the eyes for long sessions
 - **Responsive Layout** - Perfect on desktop, tablet, and mobile
 
-### 🔧 Technical Excellence
+###  Technical Excellence
 - **WebRTC P2P** - Direct peer-to-peer connections
 - **Socket.IO** - Real-time bidirectional communication
 - **React 18** - Latest React features and optimizations
@@ -57,7 +57,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph TB
@@ -81,7 +81,7 @@ graph TB
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -89,7 +89,7 @@ graph TB
 - **npm** or **yarn** package manager
 - **Modern browser** with WebRTC support
 
-### 🚀 Quick Start
+###  Quick Start
 
 1. **Clone the repository**
    ```bash
@@ -128,7 +128,7 @@ graph TB
    http://localhost:3000
    ```
 
-### 🐳 Docker Setup (Optional)
+###  Docker Setup (Optional)
 
 ```bash
 # Coming soon - Docker containerization
@@ -137,9 +137,9 @@ docker-compose up -d
 
 ---
 
-## 📖 Usage
+##  Usage
 
-### 🎬 Starting Your First Call
+###  Starting Your First Call
 
 1. **Join a Room**
    - Enter your email address
@@ -151,16 +151,16 @@ docker-compose up -d
    - Grant camera and microphone permissions when prompted
 
 3. **Use Controls**
-   - 🎤 Toggle microphone on/off
-   - 📹 Toggle camera on/off
-   - 📞 End call when finished
+   -  Toggle microphone on/off
+   -  Toggle camera on/off
+   -  End call when finished
 
-### 🎛️ Interface Guide
+###  Interface Guide
 
 #### Connection Status Indicators
-- 🟢 **Connected** - Successfully connected to the room
-- 🟡 **Connecting** - Establishing connection
-- 🔴 **Disconnected** - Connection lost or not established
+-  **Connected** - Successfully connected to the room
+-  **Connecting** - Establishing connection
+-  **Disconnected** - Connection lost or not established
 
 #### Call Status
 - **Ready to Connect** - Waiting for participants
@@ -169,7 +169,7 @@ docker-compose up -d
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -197,7 +197,7 @@ const socket = useMemo(() => io('http://your-server:8000'), []);
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Themes and Styling
 
@@ -222,7 +222,7 @@ The modular architecture makes it easy to extend Blink:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ### Running Tests
 
@@ -271,11 +271,11 @@ npm start
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Here's how you can help make Blink even better:
 
-### 🐛 Bug Reports
+###  Bug Reports
 
 Found a bug? Please create an issue with:
 - Detailed description
@@ -283,14 +283,14 @@ Found a bug? Please create an issue with:
 - Expected vs actual behavior
 - Browser/OS information
 
-### ✨ Feature Requests
+###  Feature Requests
 
 Have an idea? We'd love to hear it! Open an issue with:
 - Feature description
 - Use case explanation
 - Mockups or examples (if applicable)
 
-### 💻 Development
+###  Development
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -298,7 +298,7 @@ Have an idea? We'd love to hear it! Open an issue with:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### 📋 Development Guidelines
+###  Development Guidelines
 
 - Follow existing code style
 - Add comments for complex logic
@@ -307,9 +307,9 @@ Have an idea? We'd love to hear it! Open an issue with:
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
-### 🎯 Upcoming Features
+###  Upcoming Features
 
 - [ ] **Screen Sharing** - Share your screen during calls
 - [ ] **Group Calls** - Support for multiple participants
@@ -318,7 +318,7 @@ Have an idea? We'd love to hear it! Open an issue with:
 - [ ] **Recording** - Save important meetings
 - [ ] **Mobile App** - Native iOS and Android applications
 
-### 🔧 Technical Improvements
+###  Technical Improvements
 
 - [ ] **Performance Monitoring** - Real-time analytics
 - [ ] **Load Balancing** - Support for high traffic
@@ -327,7 +327,7 @@ Have an idea? We'd love to hear it! Open an issue with:
 
 ---
 
-## 📊 Performance
+##  Performance
 
 ### Benchmarks
 
@@ -345,7 +345,7 @@ Have an idea? We'd love to hear it! Open an issue with:
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 
 ### Security Measures
 
@@ -363,7 +363,7 @@ Have an idea? We'd love to hear it! Open an issue with:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 ### Technologies Used
 
@@ -373,15 +373,12 @@ Have an idea? We'd love to hear it! Open an issue with:
 - **WebRTC** - Peer-to-peer video/audio
 - **Lucide React** - Beautiful icons
 
-### Inspiration
-
-Built with ❤️ for the developer community. Special thanks to all the open-source projects that made Blink possible.
 
 ---
 
 <div align="center">
 
-### 🌟 Star this repository if you find it helpful!
+###  Star this repository if you find it helpful!
 
 **Made with ❤️ by the BitGladiator Team**
 
