@@ -248,7 +248,7 @@ npm test
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 ### Production Build
 
