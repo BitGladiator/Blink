@@ -21,11 +21,11 @@
 
 ###  Why Blink?
 
-- ** Premium Design**: Stunning glassmorphic UI with smooth animations and modern aesthetics
-- ** Lightning Fast**: WebRTC-powered peer-to-peer connections for minimal latency
-- ** Secure**: End-to-end encrypted video and audio streams
-- ** Responsive**: Works flawlessly across all devices and screen sizes
-- ** Interactive**: Real-time controls with immediate visual feedback
+- **Premium Design**: Stunning glassmorphic UI with smooth animations and modern aesthetics
+- **Lightning Fast**: WebRTC-powered peer-to-peer connections for minimal latency
+- **Secure**: End-to-end encrypted video and audio streams
+- **Responsive**: Works flawlessly across all devices and screen sizes
+- **Interactive**: Real-time controls with immediate visual feedback
 
 ---
 
