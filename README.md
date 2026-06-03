@@ -235,17 +235,6 @@ npm test
 cd server
 npm test
 ```
-
-### Manual Testing Checklist
-
-- [ ] Room creation and joining
-- [ ] Video call initiation
-- [ ] Audio/video controls
-- [ ] Call termination
-- [ ] Multi-tab testing
-- [ ] Different browsers
-- [ ] Mobile responsiveness
-
 ---
 
 ##  Deployment
